@@ -6,6 +6,7 @@ public class Main{
                 System.out.println("try - " + args[i]);
             } catch(ArrayIndexOutOfBoundsException e){
                 System.out.println("catch - " + e.getMessage());
+                break;//これがあった方がぽいよね
             }
         }
    }
