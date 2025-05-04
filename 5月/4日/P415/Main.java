@@ -1,3 +1,5 @@
+//冗長なリソース解放
+
 import java.io.*;
 public class Main {
     public static void main(String[]args){
