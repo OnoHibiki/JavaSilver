@@ -8,7 +8,6 @@ public class Main{
             if(index > 2){
                 if (index % 2 == 1) index++;
             }
-            
         }
     }
 }
