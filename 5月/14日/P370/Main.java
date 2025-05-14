@@ -19,6 +19,6 @@ public class Main{
     public static void main(String[]args){
         Parent obj = new Child();
         Child.methodA();
-        obj.methodB(); //privateメソッドには、同クラス内からのみアクセスできる
+        //obj.methodB(); //privateメソッドには、同クラス内からのみアクセスできる
     }
 }
