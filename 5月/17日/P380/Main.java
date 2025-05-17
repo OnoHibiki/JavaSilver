@@ -16,6 +16,7 @@ class Laptop implements Browser{}
 public class Main{
     public static void main(String[]args){
         Browser br = new MobilePhone();
+        //Browser br = new Browser(); これはダメ。インターフェース単体ではインスタンス化できない。
         br.browser();
         br = new Laptop();
         br.browser();
