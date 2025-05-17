@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
-
 record Item(int no,String name){}
+
 public class Main{
     public static void main(String[]args){
         ArrayList<Item> items = new ArrayList<>();
