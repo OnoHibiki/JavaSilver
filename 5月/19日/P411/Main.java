@@ -4,8 +4,8 @@ public class Main{
             String s = null;
             int i1 = s.length();
             int i2 = Integer.parseInt(s);
-        } catch(NumberFormatException e){
-            System.out.println(e.getMessage());
+      //  } catch(NumberFormatException e){
+      //      System.out.println(e.getMessage());
         } catch (NullPointerException e){
             e.printStackTrace();
         }
