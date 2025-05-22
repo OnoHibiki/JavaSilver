@@ -5,8 +5,8 @@ public class Product{
         System.out.println(" 1:" + price);
     }
     Product(double price){
-        price = price;
-        System.out.println(" 2:" + price);
+        price = price; //これは、メンバ変数への代入ではない。
+        System.out.println(" 2:" + price);//引数のpriceを出力している。メンバ変数のpriceを出力しているのではない。
     }
     public void print(){
         System.out.println(" 3:" + this.price);
