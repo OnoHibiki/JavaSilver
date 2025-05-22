@@ -1,8 +1,8 @@
 public class Main{
     public static void main(String[]args){
-        int value = 0x000B;
+        int value = 0x000B; //11
         System.out.println(value);
-        
+
         if(value <= 0)
             System.out.print("value: " + value + 2 + 10);
         else if(value > 0 && value < 10)
