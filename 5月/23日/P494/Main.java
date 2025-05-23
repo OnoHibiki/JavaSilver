@@ -16,6 +16,6 @@ public class Main{
                     x += 2;
             }
         }
-        System.out.println("x:" + x + "y" + y);
+        System.out.println("x:" + x + " y:" + y);
     }
 }
