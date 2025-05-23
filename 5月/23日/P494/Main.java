@@ -6,6 +6,7 @@ public class Main{
             switch(s){
                 case "Mon", "Tue":
                     x += a++;
+                    //ここに、continueもbreakもない
                 case "Web":
                     ++a;
                     continue;
@@ -14,6 +15,7 @@ public class Main{
                     break;
                 case "Sat","Sun":
                     x += 2;
+                    //switch式じゃないので、defaultは任意
             }
         }
         System.out.println("x:" + x + " y:" + y);
