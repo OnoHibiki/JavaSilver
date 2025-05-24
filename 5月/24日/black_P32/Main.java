@@ -4,9 +4,9 @@ public class Main {
         //bool flg = true; // boolなんてものはない。boolean(ラッパークラス)
         boolean flg = true;
         if(flg == true){
-            do{
+            do{//do whileなので一度実行される。
                 System.out.println(val);
-            } while (val > 10);
+            } while (val > 10);//false
         }
     }
 }
