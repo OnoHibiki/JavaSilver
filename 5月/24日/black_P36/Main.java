@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String[]args){
-        String str = "hoge,world";//不変
+        static String str = "hoge,world";//不変
         hello(str);
         System.out.println(str);
     }
