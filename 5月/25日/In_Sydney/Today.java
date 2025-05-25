@@ -5,11 +5,11 @@ public class Today{
         String who = "私は";
         System.out.println(who + when  + country + "にいます");
 
-        human human = new human("HibikiOno",30,"Japan");
-
+        human HIBIKI = new human("HibikiOno",30,"Japan");
+        
     }
 
-    class human{
+    static class human{
         String name;
         int age;
         String country;
