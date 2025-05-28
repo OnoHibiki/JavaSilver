@@ -9,3 +9,5 @@ public class Main{
         }
     }
 }
+
+//Javaの拡張For文は、読み取り用として考えよう！！
