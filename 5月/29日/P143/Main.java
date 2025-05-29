@@ -11,3 +11,5 @@ public class Main{
         System.out.println(total);
     }
 }
+
+//いよいよ、明後日試験です！まるで受験生のようです！
