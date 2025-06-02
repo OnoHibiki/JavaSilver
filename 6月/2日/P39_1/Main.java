@@ -5,3 +5,4 @@ public class Main{
     }
 }
 
+//七不思議の一つ。lengthとindexが指す位置の違い。
