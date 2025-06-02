@@ -4,3 +4,5 @@ public class Main{
         System.out.println(str.substring(1,3).startsWith("b"));
     }
 }
+
+//startsWithメソッド、あんまり親しみないよね。
