@@ -6,3 +6,4 @@ public class Main{
 }
 
 //startsWithメソッド、あんまり親しみないよね。
+//引数が二つのオーバーロードもある。boolean startsWith(String prefix, int toffset)　※toffsetはindex
