@@ -4,3 +4,5 @@ public class Main{
         System.out.println(sb.capacity());
     }
 }
+
+//StringBuilderは、デフォルトで16byte?容量を持っている。
