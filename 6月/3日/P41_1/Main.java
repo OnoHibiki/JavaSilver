@@ -7,3 +7,5 @@ public class Main{
         System.out.println(sb);
     }
 }
+
+//sb.replace(1,3,"a")→index1~index3の値をaに置き換える
