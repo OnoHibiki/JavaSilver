@@ -7,3 +7,7 @@ public class Main{
         }
     }
 }
+
+
+//null渡し可能（オブジェクト型と認識される）
+//Stringにキャストしたりするとダメ。
