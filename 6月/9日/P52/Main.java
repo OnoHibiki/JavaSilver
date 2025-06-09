@@ -8,7 +8,10 @@ public class Main{
         list.add("C");
         list.add("D");
         for (String str : list){
-            System.out.print(str);
+            System.out.print(str);//実際にエラーとして出るのはここ
         }
     }
 }
+
+
+//nullはやっかい。
