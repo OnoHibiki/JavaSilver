@@ -11,3 +11,5 @@ public class Main{
         }
     }
 }
+
+//switch文はbreak命
