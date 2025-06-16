@@ -10,3 +10,6 @@ public class Main{
         }
     }
 }
+
+
+//defaultを先頭に置くやつおるん？
