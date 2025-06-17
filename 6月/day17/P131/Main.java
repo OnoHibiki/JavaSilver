@@ -7,7 +7,7 @@ public class Main{
             case 3 -> "C";
             default -> "D";
         }//そう、ここにセミコロンが必要。
-
+         //swithc「式」は非常にややこしい。   
         System.out.println(result);
     }
 }
