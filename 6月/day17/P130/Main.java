@@ -11,3 +11,5 @@ public class Main{
     
     }
 }
+
+//switch式は、{};が必要なところにも注意。
