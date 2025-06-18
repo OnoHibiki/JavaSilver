@@ -3,9 +3,10 @@ public class Main{
         int a = 0 ;
         while(a < 5)
             do  
-
                 a++;
                 System.out.print(a);
             while(true);
     }
 }
+
+//こんな書き方は絶対にやめよう
