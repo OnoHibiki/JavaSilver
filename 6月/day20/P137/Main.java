@@ -13,7 +13,7 @@ public class Main{
 
         for (String[] tmp : array){
             for(String s : tmp){
-                System.out.println(s + " ");
+                System.out.print(s + " ");
             }
             System.out.println();
         }
