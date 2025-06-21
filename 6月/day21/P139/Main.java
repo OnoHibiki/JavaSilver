@@ -5,7 +5,7 @@ public class Main{
             str = "D";
         } 
 
-        for(String str : array){
+        for(String str : array){//上の参照とは別
             System.out.println(str);
         }
     }
