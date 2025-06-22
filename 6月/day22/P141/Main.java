@@ -8,3 +8,5 @@ public class Main{
         }
     }
 }
+
+//実際にはif文は必ず囲おうね。
