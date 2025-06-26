@@ -3,13 +3,13 @@ public class Main{
         int result = sample();
         System.out.println(result);
     }
-}
-private static int sample(){
-    try{
-        throw new RuntimeException();
-    }catch(RuntimeException e){
-        return 10;
-    }finally{
-        return 20;
+    private static int sample(){
+        try{
+            throw new RuntimeException();
+        }catch(RuntimeException e){
+            return 10;
+        }finally{
+            return 20;
+        }
     }
 }
