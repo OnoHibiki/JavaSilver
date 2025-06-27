@@ -7,3 +7,5 @@ public class Main{
         list.get(0);//ない
     }
 }
+
+//コンパイルは通るが、例外
