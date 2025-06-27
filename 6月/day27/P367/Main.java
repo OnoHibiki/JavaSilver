@@ -4,6 +4,6 @@ import java.util.List;
 public class Main{
     public static void main(String[]args){
         List<String> list = new ArrayList<>();
-        list.get(0);
+        list.get(0);//ない
     }
 }
