@@ -3,3 +3,5 @@ public class Main{
         main(args);
     }
 }
+
+//無限ループになるから厄介
