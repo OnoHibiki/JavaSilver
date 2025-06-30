@@ -9,3 +9,6 @@ public class Sample{
         System.out.println(app.test('A'));
     }
 }
+
+
+//引数が違う
