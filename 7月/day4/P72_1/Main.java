@@ -5,3 +5,5 @@ public class Main{
         System.out.println(c + b + a);
     }
 }
+
+//文字列連結が出てきた瞬間、全ては文字列になる
