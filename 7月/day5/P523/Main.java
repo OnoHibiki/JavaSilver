@@ -4,3 +4,5 @@ public class Main{
         System.out.println(num++ + num + "," + ++num + num);
     }
 }
+
+//いてオンクラスおもろすぎて、今日８時間くらい見てます
