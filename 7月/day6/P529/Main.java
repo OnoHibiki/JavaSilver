@@ -1,6 +1,6 @@
 public class Main{
     int a, b;
-    public Sample(int a, int b){
+    public Main(int a, int b){
         init(a,b);
     }
     public void init(int a, int b){
@@ -9,7 +9,7 @@ public class Main{
     }
     public static void main(String[]args){
         int a = 2,b = 3;
-        Sample s = new Sample(a,b);
+        Main s = new Main(a,b);
         System.out.println(a + "," + b);
     }
 }
