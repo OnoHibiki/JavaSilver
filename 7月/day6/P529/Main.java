@@ -13,3 +13,6 @@ public class Main{
         System.out.println(a + "," + b);
     }
 }
+
+//voidは値を戻さない
+//いてオンクラス見終わりました。おもろすぎて2日間で全部見てしましました
