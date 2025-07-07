@@ -4,3 +4,5 @@ public class Main{
          System.out.println(a % b * c + a / b);
     }
 }
+
+//5が出力されます
