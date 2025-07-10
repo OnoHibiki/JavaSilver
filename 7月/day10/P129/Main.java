@@ -8,4 +8,5 @@ public class Main{
             case 10: System.out.print("B");
             break;
         }
+    }
 }
